@@ -17,6 +17,6 @@ public class Texteditor {
 	   return new EditorMemento(content);
    }
    public void restore(EditorMemento memento) {
-	   content=memento.getContext();
+	   content=memento.getContent();
    }
 }

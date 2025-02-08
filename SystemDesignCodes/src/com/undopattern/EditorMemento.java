@@ -7,7 +7,7 @@ public class EditorMemento {
 		this.content = content;
 	}
   
-  public String getContext() {
+  public String getContent() {
 	  return content;
   }
 
