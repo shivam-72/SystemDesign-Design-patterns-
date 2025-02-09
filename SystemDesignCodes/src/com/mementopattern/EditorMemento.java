@@ -1,4 +1,4 @@
-package com.undopattern;
+package com.mementopattern;
 
 public class EditorMemento {
 	  private final String content;

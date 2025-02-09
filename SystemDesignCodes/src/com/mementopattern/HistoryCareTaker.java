@@ -1,4 +1,4 @@
-package com.undopattern;
+package com.mementopattern;
 
 import java.util.Stack;
 
