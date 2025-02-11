@@ -39,7 +39,7 @@ class UnderlineCommand implements Command{
 		editor.underlineText();
 	}
 }
-
+//now button is not tightly coupled
 class Button{
 	Command command;
 	public void setCommand(Command command){
